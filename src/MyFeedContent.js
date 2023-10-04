@@ -1,3 +1,9 @@
+
+// ===============
+// Create by 차재현
+// ===============
+
+
 import "./App.css";
 import {useEffect , useState, useRef } from "react";
 import "bootstrap/dist/css/bootstrap.css";
