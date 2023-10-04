@@ -1,3 +1,9 @@
+
+
+// ===============
+// Create by 차재현
+// ===============
+
 import "./App.css";
 import $ from "jquery";
 import Slider from "react-slick";
