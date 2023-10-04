@@ -1,3 +1,10 @@
+
+
+// ===============
+// Create by 차재현
+// ===============
+
+
 import "./App.css";
 import { useEffect, useState } from "react";
 import Slider from "react-slick";
