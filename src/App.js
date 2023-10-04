@@ -185,7 +185,7 @@ function App() {
     },[loadingState]);
     getBoardList();
     
-    // 모든 유저 아이디,프로필, 모든음악정보 불러오기
+    // 모든  유저 아이디,프로필, 모든음악정보 불러오기
     
     // 검색 함수
         const searchF = () => {
