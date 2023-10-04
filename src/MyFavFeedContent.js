@@ -1,3 +1,8 @@
+
+// ===============
+// Create by 차재현
+// ===============
+
 import "./App.css";
 import {useEffect , useState, useRef } from "react";
 import "bootstrap/dist/css/bootstrap.css";
@@ -22,13 +27,9 @@ function MyFavFeedContent(props){
     const {
         feedContentItems,
         textLimit,
-      //  boomUp,
         updateFeed,
         imageUrl,
         user,
-      //  newReplyInputChange,
-      //  newReply,
-      //  replyInsert,
         userIdList,
         profileImgList,
         allMusicList
